@@ -1,0 +1,34 @@
+<RCC>
+  <qresource prefix="iconos">
+    <file>active_menu.svg</file>
+    <file>icon_add_user.svg</file>
+    <file>icon_arrow_left.svg</file>
+    <file>icon_arrow_right.svg</file>
+    <file>icon_attachment.svg</file>
+    <file>icon_busy.svg</file>
+    <file>icon_close.svg</file>
+    <file>icon_emoticons.svg</file>
+    <file>icon_file.svg</file>
+    <file>icon_folder.svg</file>
+    <file>icon_folder_open.svg</file>
+    <file>icon_heart.svg</file>
+    <file>icon_home.svg</file>
+    <file>icon_idle.svg</file>
+    <file>icon_info.svg</file>
+    <file>icon_invisible.svg</file>
+    <file>icon_maximize.svg</file>
+    <file>icon_menu.svg</file>
+    <file>icon_menu_close.svg</file>
+    <file>icon_minimize.svg</file>
+    <file>icon_more_options.svg</file>
+    <file>icon_online.svg</file>
+    <file>icon_restore.svg</file>
+    <file>icon_save.svg</file>
+    <file>icon_search.svg</file>
+    <file>icon_send.svg</file>
+    <file>icon_settings.svg</file>
+    <file>icon_signal.svg</file>
+    <file>icon_widgets.svg</file>
+    <file>no_icon.svg</file>
+  </qresource>
+</RCC>

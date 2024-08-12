@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="imagenes">
+    <file>Arboriente-logo.png</file>
+    <file>ergoAnalyzer-banner.png</file>
+    <file>ergoAnalyzer-logo.png</file>
+    <file>ESPOCH-logo.png</file>
+  </qresource>
+</RCC>
